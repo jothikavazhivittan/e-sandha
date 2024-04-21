@@ -11,6 +11,7 @@ export const Color={
     BULE:'#006BE8',
     SANDLE:'#F4F5F9',
     RED:"#FF0000",
+    SKY_BLUE: '#BAEAFF',
     }
    export const F={
     f1:'Roboto-Thin',
